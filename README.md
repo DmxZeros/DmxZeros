@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @DmxZeros
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá ! Sou Dimas Silva
 
-<!---
-DmxZeros/DmxZeros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+	<img width="20%" src="https://img.icons8.com/windows/100/000000/programming.png"/>
+</p>
+
+- Programador Full Stack
+- Atualmente estudando Angular
+
+
+## Contatos
+<div>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
+</div>
+
+
+## Linguagens e Ferramentas
