@@ -3,15 +3,19 @@
 <p align="center">
 	<img width="20%" src="https://img.icons8.com/windows/100/000000/programming.png"/>
 </p>
-
-- Programador Full Stack
+- Engenharia da Computação
+- Desenvolvedor Full Stack
 - Atualmente estudando Angular
 
 
 ## Contatos
 <div>
-  	<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-  	<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
+	<a href="mailto:dimas086@gmail.com" target="_blank">
+		<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/ title="Gmail">
+	</a>
+	<a href="https://www.linkedin.com/in/dimassilva86" target="_blank">
+		<img src="https://img.icons8.com/color/48/000000/linkedin.png"/ title="Linkedin"> 
+	</a>
 </div>
 
 
