@@ -3,6 +3,7 @@
 <p align="center">
 	<img width="20%" src="https://img.icons8.com/windows/100/000000/programming.png"/>
 </p>
+
 - Engenharia da Computação
 - Desenvolvedor Full Stack
 - Atualmente estudando Angular
