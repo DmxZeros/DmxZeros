@@ -6,7 +6,7 @@
 
 - Engenharia da Computação
 - Desenvolvedor Full Stack
-- Atualmente estudando Angular
+- Atualmente estudando Angular e Docker
 
 
 ## Contatos
@@ -14,7 +14,7 @@
 	<a href="mailto:dimas086@gmail.com" target="_blank">
 		<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/ title="Gmail">
 	</a>
-	<a href="https://www.linkedin.com/in/dimassilva86" target="_blank">
+	<a href="">
 		<img src="https://img.icons8.com/color/48/000000/linkedin.png"/ title="Linkedin"> 
 	</a>
 </div>
